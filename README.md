@@ -1,12 +1,13 @@
 ## Hi there 👋
 
+ 🔭 Myself Rohan, I'm a Financial data engineer working as Financial reference data engineer with overall 8 years of experience in IT industry.
+ 🌱 I’m currently learning implementing AI in data engineering. 
 <!--
 **1roHan7/1roHan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
- 🔭 Myself Rohan, I'm a data engineer 
- 🌱 I’m currently learning AI
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
